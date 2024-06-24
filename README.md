@@ -6,6 +6,12 @@ Welcome to the Bio-Inspired Flocking Simulation project! This simulation replica
 <img src="https://github.com/Rishit-katiyar/Bio-inspired-Flocking-Simulation/assets/167756997/891cca96-c704-4f09-9253-99bf45c922dd" alt="Flocking Simulation" width="400" height="300">
 </p>
 
+## test_code gif:
+
+<p align="center">
+<img src="https://github.com/Rishit-katiyar/Bio-inspired-Flocking-Simulation/assets/167756997/991f6f96-b260-429e-a197-912118c3edee" alt="Flocking Simulation" width="400" height="300">
+</p>
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -16,12 +22,6 @@ Welcome to the Bio-Inspired Flocking Simulation project! This simulation replica
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-
-## test_code gif:
-
-<p align="center">
-<img src="https://github.com/Rishit-katiyar/Bio-inspired-Flocking-Simulation/assets/167756997/991f6f96-b260-429e-a197-912118c3edee" alt="Flocking Simulation" width="400" height="300">
-</p>
 
 ## Introduction
 
