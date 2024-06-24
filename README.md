@@ -1,4 +1,3 @@
-
 # Bio-Inspired Flocking Simulation 🐦🌟
 
 Welcome to the Bio-Inspired Flocking Simulation project! This simulation replicates advanced flocking behaviors inspired by biological principles, implemented in Python using Pygame.
